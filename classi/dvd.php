@@ -25,5 +25,4 @@ class Dvd extends prodotto {
     parent::__construct($nome,$autore,$prezzo,$generi,$pubblicato,$immagine );
   }
 }
-
 ?>
